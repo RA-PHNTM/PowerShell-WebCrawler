@@ -1,2 +1,2 @@
 # PowerShell-WebCrawler
-Experimenting withj pulling web elements using PowerShell, Not exactly BeautifulSoup but its something
+Experimenting with pulling web elements using PowerShell, Not exactly BeautifulSoup but its something
